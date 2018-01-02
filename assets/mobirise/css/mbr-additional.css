@@ -2730,28 +2730,14 @@ body {
     padding-top: 2rem;
   }
 }
-.cid-qFAW5L8y57 {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.cid-qFB6erRWYm {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-qFAW5L8y57 .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qFAW5L8y57 .section-text {
-  padding: 2rem 0;
-}
-.cid-qFAW5L8y57 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qFAW5L8y57 .inner-container {
-    width: 100% !important;
-  }
+.cid-qFB6erRWYm .mbr-section-subtitle {
+  color: #000000;
+  text-align: center;
 }
 .cid-qFAMH61SW8 {
   padding-top: 60px;
